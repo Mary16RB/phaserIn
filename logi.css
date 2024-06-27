@@ -874,12 +874,15 @@ a{
 
 @media screen and (max-width: 400px) {
     body{
-        transform: scale(0.6);
+        transform: scale(0.5);
+    }
+    header{
+        transform: scale(0.5);
     }
     .apple_game{
-        transform: scale(0.8);
+        transform: scale(0.6);
     }
     #piggie_apple{
-        transform: scale(0.8);
+        transform: scale(0.6);
     }
 }
